@@ -50,7 +50,14 @@ The current version is 0.0.0. This project uses [semantic versioning](http://sem
 * [Git Ignore Generator](https://www.gitignore.io/)
 * [Open Source Licenses](http://opensource.org/licenses/GPL-3.0)
 
+### PHP
 
+
+* [Supported Versions](https://www.php.net/supported-versions.php)
+* [PHPDocumentor Docs](https://docs.phpdoc.org/)
+* [PHPStan User Guide](https://phpstan.org/user-guide/getting-started)
+* [Composer Docs](https://getcomposer.org/doc/)
+* [XDebug](https://xdebug.org/)
 
 ## Credits and Acknowledgments
 
