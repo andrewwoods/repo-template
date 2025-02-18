@@ -18,15 +18,6 @@ The current version is 0.0.0. This project uses [semantic versioning](http://sem
 
 
 
-## Ideas for sections/pages
-
-* Features
-* Language Translations 
-* Frequently Asked Questions (FAQ)
-* Screenshots
-* Submit Issues
-
-
 
 ## Installation
 
@@ -38,6 +29,13 @@ The current version is 0.0.0. This project uses [semantic versioning](http://sem
 * Update [CONTRIBUTING.md](docs/CONTRIBUTING.md) to match your project needs
 
 
+## Ideas for sections/pages
+
+* Features
+* Language Translations
+* Frequently Asked Questions (FAQ)
+* Screenshots
+* Submit Issues
 
 ## Resources
 
