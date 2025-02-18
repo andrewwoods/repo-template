@@ -65,6 +65,13 @@ Here's a few things you can do:
 * [Composer Docs](https://getcomposer.org/doc/)
 * [XDebug](https://xdebug.org/)
 
+### Python
+
+* [Python Docs Homepage](https://www.python.org/doc/)
+* [Python Enhancement Proposals PEP Index](https://peps.python.org/#topics)
+* [Python Downloads](https://www.python.org/downloads/)
+
+
 ## Credits and Acknowledgments
 
 * Project Creator:  [Firstname Lastname](https://example.com)
