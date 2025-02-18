@@ -17,6 +17,14 @@ get them interested.
 The current version is 0.0.0. This project uses [semantic versioning](http://semver.org).
 
 
+## Features
+
+Here's a few things you can do:
+
+* Feature 1
+* Feature 2
+* Feature 3
+* Feature 4
 
 
 ## Installation
