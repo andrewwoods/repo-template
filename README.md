@@ -29,12 +29,13 @@ Here's a few things you can do:
 
 ## Installation
 
-* Put your code into _src_
+* Create needed top level directories that fit your project (e.g. _bin_, _doc_, _public_, _src_, _tests_)
 * [Create a Git Ignore](https://www.gitignore.io/) file
     - Add the phpdocs directory to your .gitignore file
     - Add Editor-specific files to your .gitignore ( .swp for Vim, .idea for PHPStorm, etc. )
 * Select an [Open Source License](http://opensource.org/licenses) and copy it to LICENSE.txt
 * Update [CONTRIBUTING.md](docs/CONTRIBUTING.md) to match your project needs
+* Create a .env file to manage any settings you need.
 
 
 ## Ideas for sections/pages
